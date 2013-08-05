@@ -239,7 +239,7 @@ h3.spec {
     font-weight: 300;
     line-height: 1em;
     margin-bottom: 10px;
-    text-transform: uppercase;
+    #text-transform: uppercase;
 }
 
 
